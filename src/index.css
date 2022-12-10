@@ -9,8 +9,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   /* background-color: #02020b; */
   color: #f4fff8;
-  padding: 13px 80px;
+  
 }
+
 .bg {
 
   height: 100vh;
@@ -24,4 +25,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+@media screen and (min-width:1280px) {
+  body{
+    padding: 13px 80px;
+  }
 }

@@ -2,19 +2,19 @@ import React from "react";
 
 const AboutMe = () => {
   return (
-    <div className="p-10 px-40  border-t-2 border-b-2 border-rose-400 rounded-3xl items-center flex justify-between my-48">
+    <div className="xl:p-10 2xl:px-40 p-4 border-t-2 border-b-2 border-rose-400 rounded-3xl flex-col-reverse mx-3 md:flex-row items-center flex justify-between my-48">
       <div>
         <img
-          className="rounded-full border-2 border-amber-200 w-full"
+          className="rounded-full border-2 hidden lg:block lg-[400px] border-amber-200 xl:w-full"
           src="logo.png"
           alt=""
         />
       </div>
-      <div className="text-right w-[50%]">
+      <div className="text-right lg:w-[50%]">
         <h1 className="text-rose-500 text-4xl font-bold mb-3 uppercase">
           About Me
         </h1>
-        <p className="text-xl">
+        <p className="text-sm sm:text-base md:text-xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo neque
           distinctio enim quaerat error rem nihil iste iusto quae recusandae!
           Odio cumque nulla laboriosam soluta animi ex hic explicabo, voluptatum

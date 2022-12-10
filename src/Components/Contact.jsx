@@ -18,8 +18,8 @@ const Contact = () => {
     e.target.reset();
   };
   return (
-    <div className="p-10 flex justify-between items-center px-40 my-20">
-      <div className="w-1/2">
+    <div className="lg:p-10 flex justify-between items-center px-4 2xl:px-40 my-20">
+      <div className="md:w-1/2 w-full">
         <h1 className="uppercase text-4xl font-bold text-rose-500 text-center">
           Send an email
         </h1>
@@ -82,7 +82,7 @@ const Contact = () => {
       </div>
       <div>
         <img
-          className="rounded-full border-2 border-amber-200 w-full"
+          className="rounded-full border-2 hidden md:block border-amber-200 w-[350px] xl:w-full"
           src="logo.png"
           alt=""
         />

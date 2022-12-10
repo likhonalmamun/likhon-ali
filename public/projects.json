@@ -1,0 +1,17 @@
+[
+  {
+    "title": "DealX",
+    "details": "A full stack project using MERN stack. Users can buy or sell used products on this site. Admin can delete any buyer , seller or product and can verify any seller. Buyer can buy or report a product. A seller can add , advertise or delete his product. Every user will see interface and routes according to their role.",
+    "thumb": "https://image.coolblue.be/1248x535/content/2df973a7080d21e7c9105f881dd98ac2"
+  },
+  {
+    "title": "PCFix",
+    "details": "A full stack PC parts servicing project using MERN stack. Users can buy or sell a service. They can review others services . They can also see ,  edit or delete their reviews. User can add new service. Any one can view reviews on a particular service.",
+    "thumb": "https://assignment-11-client-dcb6d.web.app/static/media/header-image.c52c8c8ca71e039be378.jpg"
+  },
+  {
+    "title": "World Cup Stream",
+    "details": "A front-end sports streaming project using plain HTML and  CSS. Users can see live matches and upcoming matches on this site(UI only). Animations were added where needed.",
+    "thumb": "https://www.reuters.com/resizer/bNHTo3hisEAawlhfPv6Q5qTpf8k=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ERBETDK555OPRJYQPEB5D2TWTI.jpg"
+  }
+]

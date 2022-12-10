@@ -3,9 +3,9 @@ import ReactTyped from "react-typed";
 import profile from "../images/Likhon Al Mamun copy.jpg";
 const Intro = () => {
   return (
-    <div className="flex mt-32 flex-col-reverse mx-3 md:flex-row  items-center justify-center gap-5">
+    <div className="flex sm:mt-32 flex-col-reverse mx-3 md:flex-row  items-center justify-center gap-5">
       <div className=" xl:mr-10 ">
-        <div className="border-l-2 pl-5 border-teal-400 rounded-2xl w-fit border-b-2 p-4">
+        <div className="border-l-2 pl-5 hover:border-rose-500 border-teal-400 rounded-2xl w-fit border-b-2 p-4">
           <h1 className="xl:text-6xl text-2xl my-5 text-teal-300 font-bold">
             Hi ! I am
           </h1>
@@ -28,7 +28,7 @@ const Intro = () => {
       </div>
       <div>
         <img
-          className="rounded-full shadow-lg shadow-white h-[200px] w-[200px] sm:h-[300px] sm:w-[300px] p-[6px] border-2 border-teal-300"
+          className="rounded-full hover:border-4 hover:border-rose-500 hover:scale-110 duration-500 h-[200px] w-[200px] sm:h-[300px] sm:w-[300px] p-[6px] border-2 border-teal-300"
           src={profile}
           alt=""
         />

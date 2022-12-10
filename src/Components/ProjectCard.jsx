@@ -12,7 +12,7 @@ const ProjectCard = ({ project }) => {
     return () => clearInterval(timer);
   }, [flip]);
   return (
-    <div className="p-2 rounded-xl duration-300 bg-[rgba(0,0,0,0.8)] h-[270px] xl:h-[300px] 2xl:h-[270px] border-l border-teal-300 border-b">
+    <div className="p-2 rounded-xl duration-300 bg-[rgba(0,0,0,0.8)] h-[270px] xl:h-[300px] 2xl:h-[270px] border-l hover:border-rose-500 hover:scale-95 border-teal-300 border-b">
       <div className={flip ? "" : "hidden"}>
         <img className="rounded-xl w-full h-[200px]" src={project.thumb} alt="" />
         <div className="px-3 my-3">

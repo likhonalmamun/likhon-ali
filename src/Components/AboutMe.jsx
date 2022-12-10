@@ -10,25 +10,29 @@ const AboutMe = () => {
           alt=""
         />
       </div>
-      <div className="text-right lg:w-[50%]">
+      <div className=" text-justify lg:w-[50%]">
         <h1 className="text-rose-500 text-4xl font-bold mb-3 uppercase">
           About Me
         </h1>
         <p className="text-sm sm:text-base md:text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo neque
-          distinctio enim quaerat error rem nihil iste iusto quae recusandae!
-          Odio cumque nulla laboriosam soluta animi ex hic explicabo, voluptatum
-          ducimus tempore commodi libero veritatis eum voluptates, illum ipsa
-          architecto officiis earum? Nam, quae aspernatur. Mollitia perspiciatis
-          similique nulla accusantium rem eos exercitationem. Expedita
-          reiciendis, ex reprehenderit odio optio itaque ullam vel! Pariatur
-          eveniet dolor consequatur recusandae. Ea officiis doloremque odit
-          alias dicta odio quaerat sapiente quas libero totam sequi facere
-          suscipit aperiam blanditiis, modi iste est aspernatur beatae fuga
-          laboriosam placeat in! Iste tempora autem laudantium nemo dolor
-          quibusdam distinctio veniam repellat enim voluptates quas reiciendis
-          nobis error minima eum debitis quidem, placeat iusto harum commodi? Ea
-          reprehenderit eligendi molestias commodi.
+          Myself MD. Likhon Ali. I am mainly a front-end web developer. I was so
+          passionate about building a website so I decided to start learning web
+          development. Firstly, I have learned HTML markup language and CSS
+          cascading language, frameworks of CSS like Tailwind, Bootstrap and
+          built some project using them. Then I started Learning JavaScript.
+          After gaining a reasonable skill on JS, I made some project with
+          vanilla HTML, CSS and JS.Then I switched to front-end framework
+          React.js.I have done many projects using React.js.
+          <br />
+          After achieving a massive confidence on front-end development, I have
+          started to explore backend technologies. Recently, I have build some
+          full-stack projects on MERN stack. Node.js, Express.js and MongoDB are
+          the core skills of backend that I have.
+          <br />I have explored many tools in order to implement various
+          functionalities in my projects. Some of them are Firebase, GitHub,
+          Netlify, JWT, Vercel, and many npm packages.
+          <br />I loved and enjoyed my total journey of learning web development
+          a lot. I will surely enjoy my career as a web developer.
         </p>
       </div>
     </div>

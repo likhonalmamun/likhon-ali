@@ -8,10 +8,10 @@ const Header = () => {
         <Link to="/">Home</Link>
         <p>
           <a
-            className="ml-7 p-2 border-2 text-xl border-amber-200 text-teal-300 rounded-lg"
+            className="ml-7 p-2 border-2 text-xl border-rose-500 text--300 rounded-lg"
             href="MD_Likhon_Ali_Resume.pdf"
           >
-            Resume
+           Open Resume
           </a>
         </p>
       </div>

@@ -7,9 +7,18 @@ body {
   font-family: "Barlow Semi Condensed", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #02020b;
+  /* background-color: #02020b; */
   color: #f4fff8;
   padding: 13px 80px;
+}
+.bg {
+
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -100;
 }
 
 code {

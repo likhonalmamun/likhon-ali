@@ -6,7 +6,7 @@ const AboutMe = () => {
       id="about"
       className="xl:p-10 2xl:px-40 hover:border-teal-300 duration-500 p-4 border-t-2 border-b-2 border-rose-400 rounded-3xl flex-col-reverse mx-3 md:flex-row items-center flex justify-between my-48"
     >
-      <div>
+      <div className="logo">
         <img
           className="rounded-full border-2 hidden lg:block w-[400px] hover:border-teal-300 duration-300 hover:scale-95 border-amber-200 xl:w-[400px]"
           src="logo.png"

@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 const ProjectCard = ({ project }) => {
   const navigate = useNavigate();
   return (
-    <div className="p-2 rounded-xl duration-300 flex flex-col justify-between bg-[rgba(0,0,0,0.8)] border-l hover:border-rose-500 hover:scale-95 border-teal-300 border-b">
+    <div className="p-2 rounded-xl duration-300 flex flex-col justify-between bg-[rgba(0,0,0,0.8)] border-l-2 hover:border-rose-500 hover:scale-95 border-teal-300 border-b-2">
       <div>
         <div>
           <img

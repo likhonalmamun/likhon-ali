@@ -46,9 +46,9 @@ const Header = () => {
         >
           <FaInfoCircle className="mx-1 sm:text-xl"></FaInfoCircle> About Me
         </a>
-        <p className="hover:scale-110 duration-300 ">
+        <p className="hover:scale-110 resume-btn duration-300 ">
           <a
-            className=" ml-3 p-2 border-2 duration-300 hover:border-teal-300 hover:text-rose-500  sm:text-xl border-rose-500 text--300 rounded-lg"
+            className=" ml-3 p-2 border-2  duration-300 hover:border-teal-300 hover:text-rose-500  sm:text-xl border-rose-500 text--300 rounded-lg"
             href="/MD_Likhon_Ali_Resume.pdf"
           >
             Open Resume

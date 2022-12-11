@@ -92,7 +92,7 @@ const Contact = () => {
             rows={3}
           />
           <button
-            className="w-full transition-all  duration-300  uppercase rounded-md hover:scale-95 text-white 
+            className="w-full hover transition-all  duration-300  uppercase rounded-md hover:scale-95 text-white 
             font-bold text-lg my-5 py-3  hover:bg-black 
             border-2 border-rose-500 bg-rose-500"
             type="submit"
@@ -103,7 +103,7 @@ const Contact = () => {
       </div>
       <div>
         <img
-          className="rounded-full border-2 hidden md:block 
+          className="rounded-full logo border-2 hidden md:block 
           border-amber-200 hover:border-rose-500 hover:scale-95 duration-300 w-[350px] xl:w-full"
           src="logo.png"
           alt=""

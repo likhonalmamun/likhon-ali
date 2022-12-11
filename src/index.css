@@ -12,6 +12,50 @@ body {
   /* background-color: #02020b; */
   color: #f4fff8;
 }
+@keyframes resume {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.2);
+  }
+}
+@keyframes logo {
+  from {
+    transform: scale(0.9);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+@keyframes projects {
+  from {
+    transform: scale(0.95);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+@keyframes hover {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+.hover:hover {
+  animation: hover 1s ease-in-out infinite alternate;
+}
+.projects {
+  animation: projects 3s ease-in-out infinite alternate;
+}
+.logo {
+  animation: logo 1s ease-in-out infinite alternate;
+}
+.resume-btn {
+  animation: resume 1s ease-in-out infinite alternate;
+}
 
 .bg {
   height: 100vh;

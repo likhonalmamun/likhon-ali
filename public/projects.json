@@ -3,7 +3,19 @@
     "title": "DealX",
     "summery": "A full stack project using MERN stack. Here people can buy of sell old PC parts.Users will see role based interface.",
     "thumb": "thumb1.png",
+
     "details": {
+      "links": [
+        {
+          "name": "Client site Code",
+          "src": "https://github.com/likhonalmamun/deal-x"
+        },
+        {
+          "name": "Server site Code",
+          "src": "https://github.com/likhonalmamun/deal-x-server"
+        },
+        { "name": "Live site", "src": "https://dealx-likhon.web.app" }
+      ],
       "name": "DealX",
       "pics": ["1_img1.png", "1_img2.png", "1_img3.png", "1_img4.png"],
       "overview": "A full stack project using MERN stack. Here people can buy of sell old PC parts.Users will see role based interface.Below are some key features and technologies of this project.",
@@ -25,6 +37,20 @@
     "summery": "A full stack PC servicing project using MERN stack.People can buy services from this site.User can take CRUD operation as their needs.",
     "thumb": "thumb2.png",
     "details": {
+      "links": [
+        {
+          "name": "Client site Code",
+          "src": "https://github.com/likhonalmamun/pc-fix"
+        },
+        {
+          "name": "Server site Code",
+          "src": "https://github.com/likhonalmamun/pc-fix-server"
+        },
+        {
+          "name": "Live site",
+          "src": "https://assignment-11-client-dcb6d.web.app/"
+        }
+      ],
       "name": "PCFix",
       "pics": ["2_img1.png", "2_img2.png", "2_img3.png", "2_img4.png"],
       "overview": "A full stack PC servicing project using MERN stack.People can buy services from this site.User can take CRUD operation as their needs.Below are some key features and technologies of this project.",
@@ -46,6 +72,16 @@
     "summery": "A front-end sports streaming project using plain HTML and  CSS. Users can see live matches and upcoming matches on this site(UI only). Animations were added where needed.",
     "thumb": "thumb3.png",
     "details": {
+      "links": [
+        {
+          "name": "Source code",
+          "src": "https://github.com/likhonalmamun/world-cup-assingment-2"
+        },
+        {
+          "name": "Live site",
+          "src": "https://likhonalmamun.github.io/world-cup-assingment-2/"
+        }
+      ],
       "name": "World Cup Stream",
       "pics": ["3_img1.png", "3_img2.png", "3_img3.png", "3_img4.png"],
       "overview": "A front-end sports streaming project using plain HTML and  CSS. Users can see live matches and upcoming matches on this site(UI only). Below are some key features and technologies of this project.",

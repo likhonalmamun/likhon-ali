@@ -19,6 +19,7 @@ const Contact = () => {
   };
   return (
     <div
+    id="mail"
       className="lg:p-10 flex justify-between
      items-center px-4 2xl:px-40 my-20"
     >

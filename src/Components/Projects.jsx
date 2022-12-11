@@ -10,7 +10,10 @@ const Projects = () => {
       .catch((er) => console.log(er));
   }, []);
   return (
-    <div className="my-20 2xl:mx-32 mx-2 p-2 sm:p-5 rounded-3xl hover:border-teal-300 duration-500 border-rose-500 border-r border-t">
+    <div
+      id="projects"
+      className="my-20 2xl:mx-32 mx-2 p-2 sm:p-5 rounded-3xl hover:border-teal-300 duration-500 border-rose-500 border-r border-t"
+    >
       <h1 className="text-3xl sm:text-4xl font-bold text-amber-300 my-3 text-center">
         My Recent Projects
       </h1>

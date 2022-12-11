@@ -13,6 +13,7 @@ const Home = () => {
       {/* <MySkills></MySkills> */}
       <Projects></Projects>
       <Contact></Contact>
+      {/* <ProjectDetails></ProjectDetails> */}
     </div>
   );
 };

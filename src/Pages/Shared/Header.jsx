@@ -48,7 +48,7 @@ const Header = () => {
         </a>
         <p className="hover:scale-110 resume-btn duration-300 ">
           <a
-            className=" ml-3 p-2 border-2  duration-300 hover:border-teal-300 hover:text-rose-500  sm:text-xl border-rose-500 text--300 rounded-lg"
+            className=" ml-3 p-2 border-2 bg-rose-500 hover:bg-transparent text-white duration-300 hover:border-teal-300 hover:text-rose-500  sm:text-xl border-rose-500 text--300 rounded-lg"
             href="/MD_Likhon_Ali_Resume.pdf"
           >
             Open Resume
@@ -107,7 +107,7 @@ const Header = () => {
           <li>
             <p className="hover:scale-110 duration-300 ">
               <a
-                className=" ml-3 p-2 border-2 duration-300 hover:border-teal-300 hover:text-rose-500  sm:text-xl border-rose-500 text--300 rounded-lg"
+                className=" ml-3 p-2 border-2 bg-rose-500 text-white hover:bg-transparent duration-300  hover:text-rose-500  sm:text-xl border-rose-500 text--300 rounded-lg"
                 href="/MD_Likhon_Ali_Resume.pdf"
               >
                 Open Resume
